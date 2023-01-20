@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ @font-face {
+    font-family: "Herculanum";
+    font-weight: 700;
+    src: url('/fonts/Herculanum-Regular.ttf') format('truetype');
+}
+
