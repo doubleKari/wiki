@@ -4,7 +4,7 @@ import group from "../assets/images/group.png";
 
 const Info = () => {
   const { info } = useLoaderData();
-
+  console.log(info);
   return (
     <>
       <img src={group} alt="image" />

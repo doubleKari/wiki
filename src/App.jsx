@@ -30,6 +30,7 @@ const router = createBrowserRouter([
 async function infoloader() {
   const resp = await fetch("https://api.sampleapis.com/avatar/info");
   const info = await resp.json();
+
   return { info };
 }
 
