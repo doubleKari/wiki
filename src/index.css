@@ -6,6 +6,6 @@
  @font-face {
     font-family: "Herculanum";
     font-weight: 700;
-    src: url('../fonts/Herculanum-Regular.ttf') format('truetype');
+    src: url('/fonts/Herculanum-Regular.ttf') format('truetype');
 }
 
